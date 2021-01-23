@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "609768415952",
+    "firebase_url": "https://fir-c890b.firebaseio.com",
+    "project_id": "fir-c890b",
+    "storage_bucket": "fir-c890b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609768415952:android:b2298730ff3f87176734d5",
+        "android_client_info": {
+          "package_name": "com.companyname.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609768415952-sltvuf77gb8jghlicbjbka7j7nnj3pf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtk5lUyMit_CCeb6I7oyfOZZFCAdtYS2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609768415952-sltvuf77gb8jghlicbjbka7j7nnj3pf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
